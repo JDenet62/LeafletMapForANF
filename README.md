@@ -3,7 +3,7 @@
 # Author: John H Doucette Jr
 #
 # Introduction:
-        This project was developed because of my enthusiasm for tinkering with the LeafletJS Engine.
+        This project was developed because of my enthusiasm after tinkering with the LeafletJS Engine.
  So my boss and I decided to flex my JS knowledge and learn more about map building to fill a need.
  This Project is done completely in vanilla Javascript with minimum of frame works addon's.
  
